@@ -1,0 +1,17 @@
+h1{
+    border-width: 6px;
+    border-style: double;
+    border-color: pink;
+    margin-bottom: 10px;
+}
+
+h1{
+    margin-top: 30px;
+}
+
+p{
+    border-width: 6px;
+    border-style: double;
+    border-color: rgb(193, 173, 173);
+    margin-bottom: 10px;
+}
